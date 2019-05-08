@@ -7,7 +7,8 @@ Vous pouvez tester l'application en suivant ce lien : https://mariethielens.gith
 
 <img src="./public/miniature.png" style="width:70%;">
 
-Voici une applicaion qui permet de 
+Voici une applicaion qui permet de :
+
     - Faire une recherche à partir du nom d'un bar
     - Mettre en favori
     - Liker ou disliker un bar
@@ -53,5 +54,7 @@ Tableau d'objets qui contient les infos sur les restaurants.
 ## Auteur
 
 Nom : Marie Thielens
+
 Email: thielens.marie@gmail.com
+
 Site : https://www.thielens-marie.be/
